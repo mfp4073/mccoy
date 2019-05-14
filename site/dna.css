@@ -1,0 +1,121 @@
+.ui-cluetip-header,
+.ui-cluetip-content {
+  padding: 0;
+}
+
+.cluetip-default {
+  border:1px solid #888;
+  background-color: #fff;
+  padding: 4px;
+}
+.cluetip-default .ui-cluetip-header {
+  background-color: #fff;
+}
+
+div.dnatable {
+  overflow: auto;
+  padding: 1px;
+}
+
+div.dnaleft div.dnatable {
+  float: left;
+}
+
+div.dnaright div.dnatable {
+  float: right;
+}
+
+div.dnaleft div.dnatable table.dnatable {
+  float: left;
+  margin: 0 !important;
+}
+
+div.dnaright div.dnatable table.dnatable {
+  float: right;
+  margin: 0 !important;
+}
+
+table.dnatable {
+  border-collapse: collapse;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #666;
+  font-family: arial,helvetica,sans-serif;
+  margin: 0 auto;
+  text-align: center;
+}
+
+table.dnatable th {
+  border-width: 1px;
+  border-style: solid;
+  border-color: #666;
+  font-size: small;
+  font-weight: normal;
+  padding: 0 2px;
+  text-align: center;
+  vertical-align: bottom;
+}
+
+table.dnatable th.dnatitle { font-weight: bold; font-size: medium; }
+table.dnatable th.dnagroup { font-weight: bold; font-size: medium; }
+table.dnatable th div.dnagroupdesc { font-weight: normal; font-size: small; }
+table.dnatable th.mi { font-family: fixed; font-weight: normal; }
+table.dnatable th.vv { color: #f00; }
+table.dnatable th.vm { background-color: #ffff00; }
+table.dnatable th.mn { font-size: x-small; font-weight: normal; }
+
+table.dnatable td {
+  border-width: 1px;
+  border-style: solid;
+  border-color: #666;
+  font-size: small;
+  padding: 0 3px;
+  text-align: center;
+  vertical-align: middle;
+}
+
+table.dnatable td.v { padding: 0 1px; }
+table.dnatable td.vm { background-color: #ffff00 !important; color: #000 !important; }
+table.dnatable td.vv { font-style: italic; }
+
+div.dnacaption { font-size: small; font-style: italic; text-align: center; }
+
+div.dnahappre, span.dnahappre { color: #c00; font-style: italic; }
+
+table.dnatable tr.dnagc1  { background-color: #dbccbd; color: #000; }
+table.dnatable tr.dnagc2  { background-color: #610533; color: #fff; }
+table.dnatable tr.dnagc3  { background-color: #dbdbbd; color: #000; }
+table.dnatable tr.dnagc4  { background-color: #330561; color: #fff; }
+table.dnatable tr.dnagc5  { background-color: #dbbddb; color: #000; }
+table.dnatable tr.dnagc6  { background-color: #053361; color: #fff; }
+table.dnatable tr.dnagc7  { background-color: #bddbdb; color: #000; }
+table.dnatable tr.dnagc8  { background-color: #056133; color: #fff; }
+table.dnatable tr.dnagc9  { background-color: #bdbddb; color: #000; }
+table.dnatable tr.dnagc10 { background-color: #336105; color: #fff; }
+table.dnatable tr.dnagc11 { background-color: #bddbbd; color: #000; }
+table.dnatable tr.dnagc12 { background-color: #613305; color: #fff; }
+table.dnatable tr.dnagc13 { background-color: #d65c5c; color: #000; }
+table.dnatable tr.dnagc14 { background-color: #d65c99; color: #000; }
+table.dnatable tr.dnagc15 { background-color: #d6d65c; color: #000; }
+table.dnatable tr.dnagc16 { background-color: #995cd6; color: #000; }
+table.dnatable tr.dnagc17 { background-color: #5cd65c; color: #000; }
+table.dnatable tr.dnagc18 { background-color: #5c99d6; color: #000; }
+table.dnatable tr.dnagc19 { background-color: #5cd6d6; color: #000; }
+table.dnatable tr.dnagc20 { background-color: #5cd699; color: #000; }
+table.dnatable tr.dnagc21 { background-color: #5c5cd6; color: #fff; }
+table.dnatable tr.dnagc22 { background-color: #99d65c; color: #000; }
+table.dnatable tr.dnagc23 { background-color: #d65cd6; color: #000; }
+table.dnatable tr.dnagc24 { background-color: #d6995c; color: #000; }
+table.dnatable tr.dnagc25 { background-color: #610505; color: #fff; }
+table.dnatable tr.dnagc26 { background-color: #d6d65c; color: #000; }
+table.dnatable tr.dnagc27 { background-color: #616105; color: #fff; }
+table.dnatable tr.dnagc28 { background-color: #ccbddb; color: #000; }
+table.dnatable tr.dnagc29 { background-color: #056105; color: #fff; }
+table.dnatable tr.dnagc30 { background-color: #bdccdb; color: #000; }
+table.dnatable tr.dnagc31 { background-color: #056161; color: #fff; }
+table.dnatable tr.dnagc32 { background-color: #bddbcc; color: #000; }
+table.dnatable tr.dnagc33 { background-color: #050561; color: #fff; }
+table.dnatable tr.dnagc34 { background-color: #ccdbbd; color: #000; }
+table.dnatable tr.dnagc35 { background-color: #610561; color: #fff; }
+table.dnatable tr.dnagc36 { background-color: #dbbdbd; color: #000; }
+

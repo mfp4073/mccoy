@@ -1,0 +1,6 @@
+
+/* 1 Col Chart Con Side-Xtra */
+#container{float:left;}
+#sidebarw{clear:both; float:left; width:25%;}
+#extraw{float:left; width:calc(100% - 25%);}
+#footerw{clear:left;}
